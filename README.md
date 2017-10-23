@@ -16,6 +16,8 @@ Install the tweepy library by running the following command in your command prom
           
 This will install the tweepy into your machine and you're good to go.
 
+Go to apps.twitter.com/ and generate a consumer key, consumer secret, access token, access token secret and paste them in the auth.k file.
+
 Clone the repository and on your command prompt navigate to the directory and run the following command as per your requirements:
 
         python twitter_search.py query -c 50
